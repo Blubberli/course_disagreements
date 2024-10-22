@@ -6,6 +6,9 @@ assignment2.txt). For each
 assignment, there is a Jupyter notebook that contains some code snippets and questions. THe same questions are also in the corresponding .txt file.
 Please answer the questions in the .txt file and upload them to Ilias into the corresponding assignment folder. You can also upload a pdf file if you prefer.
 
+**The assignments are due to 9th of November.** 
+
+The files are also shared via Github: https://github.com/Blubberli/course_disagreements
 
 ### Do I have to pogramm? 
 There is little to program in these assignments. Most of the code can be run as is and most questions are about your conceptual understanding.
