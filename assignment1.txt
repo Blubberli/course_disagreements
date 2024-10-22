@@ -1,0 +1,25 @@
+A1: What is the cohen's kappa between annotator a2 and a3?
+---------------------------------------------------------------
+
+
+
+A2: Why is the ICC value higher than Cohen's Kappa and Krippendorff's Alpha?
+---------------------------------------------------------------
+
+
+
+A3: Why is the percentage of agreement so high, even though the Cohen's Kappa is low?
+---------------------------------------------------------------
+
+
+
+A4: Calculate the entropy and normalized entropy for the different distributions and sort them from low to high entropy. How is it related to the agreement between the raters?
+---------------------------------------------------------------
+
+
+
+
+A5: Compare the two metrics for the different scenarios using the plot. How do they differ in general between scenarios? How does kappa differ from entropy?
+---------------------------------------------------------------
+
+

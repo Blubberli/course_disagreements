@@ -1,0 +1,8 @@
+A1: Calculate the Jensen-Shannon divergence and cross-entropy between the human and predicted distributions for all possible cases. Which cases lead to a very low JS-divergence and cross-entropy? What does this mean? Which cases lead to a very high JS-divergence and cross-entropy? What does this mean? In which cases do JS-divergence and cross-entropy differ significantly? 
+----------------------------------------------------------------
+
+
+
+
+A2: The dataframes should contain all information that are needed to calculate different metrics. Calculate some metrics of your choice for the datasets and models and compare the performance of the two models. What do you observe?
+-----------------------------------------------------------------
